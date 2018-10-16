@@ -1,6 +1,9 @@
 <!DOCTYPE html>
 <html>
 <head>
+
+<link rel="icon" type="image/gif" href="logo.jpg">
+
 	<title>chat</title>
 	  <!-- <title>Bootstrap 4 Website Example</title> -->
   <meta charset="utf-8">
